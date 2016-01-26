@@ -1,0 +1,3 @@
+from => aaa.txt
+
+-> have fun!
